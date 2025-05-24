@@ -5,7 +5,7 @@
 ```bash
 "Se você busca muito alguma coisa, é certo que deixará outras no meio do caminho."
 
-- ".Berserk"
+- "Berserk"
 ```
 
 Seja bem-vindo!
